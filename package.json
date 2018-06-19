@@ -47,6 +47,6 @@
     "mkdirp": "^0.5.1",
     "path-is-absolute": "^1.0.0",
     "untildify": "^3.0.2",
-    "winreg": "https://github.com/Slapbox/node-winreg/tarball/master"
+    "winreg": "https://github.com/Slapbox/node-winreg/tarball/2672598ac60796373728a856d20543b09eafdc52"
   }
 }
